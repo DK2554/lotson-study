@@ -1,5 +1,5 @@
 # Git, Github 공부하기
-<hr/>'
+<hr/>
 
 ### local과 원격은 따로 구분한다.
 1. local 개인폴더에 commit
