@@ -16,6 +16,6 @@
 6. git push origin master   : 원격 master에 push
 --------------------------------------------------------> 원격 master에 push
 7. git pull origin master
-8. git checkout jiyeon
+8. git checkout Jiyeon
 9. git merge master 
 
