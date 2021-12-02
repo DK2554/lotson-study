@@ -139,3 +139,6 @@ JRE에서 제공하는 실행 환경뿐만 아니라 자바 개발에 필요한 
 일반적으로 컴퓨터에서 Java프로그램을 실행하는데에만 포커스를 둔다면 JRE만 설치해도 된다.
 
 그러나 Java프로그래밍을 하려면 JDK를 설치해야한다.
+
+
+Notion : https://wheat-paprika-e8f.notion.site/1-JVM-9f5feaaf84594534a271e8eb9ca03dd2
