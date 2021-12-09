@@ -1,4 +1,3 @@
-
 public class WatermelonWatermelon {
 	public static void main(String[] args) {
 		WatermelonSolution solution = new WatermelonSolution();

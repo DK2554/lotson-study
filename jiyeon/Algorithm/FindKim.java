@@ -1,4 +1,3 @@
-
 public class FindKim {
 	 public static void main(String[] args) {
 		FindKimSolution solution = new FindKimSolution();
