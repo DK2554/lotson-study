@@ -20,7 +20,7 @@ class BudgetSolution {
         for(int i : d) {
         	budget = budget - i;
         	
-        	if(budget > 0 || budget == 0) {
+        	if(budget >= 0) {
         		answer++;
         	}else {
         		break;
