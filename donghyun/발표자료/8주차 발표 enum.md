@@ -221,9 +221,11 @@ enum Transportation {
     },
     TRAIN(150){
     int fare(int distance){return distance*BASIC_FARE*2;}
-    }, SHIP(100){
+    }, 
+    SHIP(100){
     int fare(int distance){return distance*BASIC_FARE*3;}
-    } , AIRPLANE(300){
+    } ,
+    AIRPLANE(300){
     int fare(int distance){return distance*BASIC_FARE*10;}
     };
     abstract int fare(int distance); // 거리에 따른 요금을 계산하는 추상 메서드
@@ -232,7 +234,8 @@ enum Transportation {
 }
 ```
 
+
 >출처:자바의 정석
-velog:https://velog.io/@kdong702/ENUMS
+>원본 velog:https://velog.io/@kdong702/ENUMS
 
 
