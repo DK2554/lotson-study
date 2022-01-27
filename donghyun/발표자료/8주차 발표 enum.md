@@ -235,7 +235,7 @@ enum Transportation {
 ```
 
 
->출처:https://kils-log-of-develop.tistory.com/430
-velog:https://velog.io/@kdong702/ENUMS
+>출처:자바의 정석
+>원본 velog:https://velog.io/@kdong702/ENUMS
 
 
