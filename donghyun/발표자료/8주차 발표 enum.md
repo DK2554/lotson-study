@@ -236,6 +236,7 @@ enum Transportation {
 
 
 >출처:자바의 정석
+
 >원본 velog:https://velog.io/@kdong702/ENUMS
 
 
